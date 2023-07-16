@@ -1,0 +1,14 @@
+{
+  "name": "dev/dev",
+  "type": "dev",
+  "autoload": {
+    "classmap": [
+      "./"
+    ]
+  },
+  "require" : {
+    "php": "7.4.*",
+    "ext-json": "*",
+    "ext-simplexml": "*"
+  }
+}
