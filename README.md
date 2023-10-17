@@ -7,4 +7,4 @@ connect to the dev container using
 
 use mysql frontend (if you like) via
 
-`https://localhost:8090`
+`http://localhost:8090`
